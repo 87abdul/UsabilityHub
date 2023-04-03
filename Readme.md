@@ -18,6 +18,10 @@ The Font Awesome icon set was used for social media icons.
 
 ![](assets/img1.png)
 
+-------
+
 ![](assets/img2.png)
+
+-------
 
 ![](assets/img3.png)
